@@ -1,4 +1,2 @@
-# jorgehossa.github.io
-
-Firma personal para email, puedes verla aquí:
-[https://jorgehossa.github.io/](https://jorgehossa.github.io/)
+# Personal Email Signature
+[https://georgehossa-email-signature.netlify.app/](https://georgehossa-email-signature.netlify.app/)
